@@ -3,4 +3,7 @@ added after add
 adding something for first branch
 chick chick
 bukbuk
+<<<<<<< HEAD
+11
+22
 //44
